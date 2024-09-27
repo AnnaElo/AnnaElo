@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anna from Kokkola, Finland
-- 👀 I’m interested in cybersecurity, data management and projects
+- 👀 I’m interested in robotics, data management and projects
 - 🌱 I’m big fan of growing plants
 - 🎮 Also video games are closed to my heart
 - 📚 As well as reading  
