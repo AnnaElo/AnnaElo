@@ -6,7 +6,7 @@
 - 📍Kokkola, Finland
 
 - 📚 Research/Publications: 
-  - [Thesis](https://urn.fi/URN:NBN:fi:amk-2025100625598https://urn.fi/URN:NBN:fi:amk-2025100625598)
+  - [Thesis](https://urn.fi/URN:NBN:fi:amk-2025100625598)
   - [AMIS-Project - Autonomous and Unmanned Logistics Solutions within Decentralised Social and
 Healthcare Services](https://net.centria.fi/wp-content/uploads/2024/04/AMIS-Toimenpidesuunnitelma.pdf)
 
