@@ -2,30 +2,19 @@
  
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=2E7D32&center=true&vCenter=true&width=520&lines=Drones+%7C+XR+%7C+Robotics+%7C+Localization" alt="Typing SVG" /> 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=2E7D32&center=true&vCenter=true&width=520&lines=Drones+%7C+XR+%7C+Robotics+%7C+Data+Visualization" alt="Typing SVG" /> 
   </a>
 </p>
-<table>
-  <tr>
-    <td width="65%">
-      Lorem ipsum.
-      <br><br>
-      When I'm offline, I'm growing plants, knitting or out in the nature.
-    </td>
-    <td width="35%" align="center">
-      🌲🤖🌱
-    </td>
-  </tr>
-</table>
+<table> <tr> <td width="65%"> I'm an IT-engineer, working as a <b>researcher</b> (Oulu University of Applied Sciences, 2026-) based in Oulu, Finland. I work at the intersection of <b>XR-technology</b> and <b>drones</b>, with a focus on <b>data visualization</b> – figuring out how various types of information can be presented in ways other than just as numbers and characters.<br><br> When I’m not online, I grow plants, spend time in nature with my 90s camera, pursue my master's degree, knit, or plan my next project. </td> <td width="35%" align="center"> <img src="aurora.jpeg" alt="Northern lights over Kokkola" width="100%" /> </td> </tr> </table> 
 
 ---
  
 ### 👩 About me
 
-- 🔬 Researcher (XR & drones) at Oulu University of Applied Sciences
+- 🔬 Researcher (XR-technology & drones) at Oulu University of Applied Sciences
 - 🎓 Currently doing my MSc. CS in JYU 
-- 💻 Specializing in IoT, Linux systems, robotics and localization
-- 👯 Open to collaborating on small robotics, embedded Linux and automation projects
+- 💻 Specializing in IoT, Linux systems, drones and robotics
+- 👯 Open to collaborating on small projects related to machine/computer vision 
 
 ---
  
@@ -62,9 +51,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-eloranta-6b01861ab/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnnaElo)
  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=2E7D32&style=flat" alt="Profile views" />
-</p>
 <!---
 AnnaElo/AnnaElo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
